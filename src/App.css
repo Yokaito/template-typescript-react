@@ -1,0 +1,16 @@
+.App {
+  background: #26353e;
+  color: rgb(182, 182, 182);
+  text-align: center;
+  min-height: 100vh;
+  display: grid;
+  align-content: center;
+  font-family: 'Roboto';
+  font-size: 2em;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
